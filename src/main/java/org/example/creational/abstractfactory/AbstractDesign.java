@@ -1,7 +1,7 @@
-package org.example.behavioral.abstractfactory;
+package org.example.creational.abstractfactory;
 
-import org.example.behavioral.abstractfactory.carfactory.CarFactory;
-import org.example.behavioral.abstractfactory.carfactory.CarType;
+import org.example.creational.abstractfactory.carfactory.CarFactory;
+import org.example.creational.abstractfactory.carfactory.CarType;
 
 public class AbstractDesign {
     public static void main(String[] args)

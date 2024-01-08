@@ -1,4 +1,4 @@
-package org.example.behavioral.factory.notification;
+package org.example.creational.factory.notification;
 
 public class PushNotification implements INotification {
     public void notifyUser() {

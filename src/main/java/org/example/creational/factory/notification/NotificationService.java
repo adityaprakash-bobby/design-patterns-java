@@ -1,4 +1,4 @@
-package org.example.behavioral.factory.notification;
+package org.example.creational.factory.notification;
 
 public class NotificationService {
     public static void main(String[] args) {

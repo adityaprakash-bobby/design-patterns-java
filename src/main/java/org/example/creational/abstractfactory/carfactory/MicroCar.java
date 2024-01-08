@@ -1,4 +1,4 @@
-package org.example.behavioral.abstractfactory.carfactory;
+package org.example.creational.abstractfactory.carfactory;
 
 class MicroCar extends Car {
     MicroCar(Location location) {
